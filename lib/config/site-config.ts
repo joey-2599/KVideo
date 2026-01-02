@@ -16,6 +16,6 @@ export interface SiteConfig {
  */
 export const siteConfig: SiteConfig = {
   title: process.env.NEXT_PUBLIC_SITE_TITLE || "KVideo - 视频聚合平台",
-  description: process.env.NEXT_PUBLIC_SITE_DESCRIPTION || "Multi-source video aggregation platform with beautiful Liquid Glass UI",
+  description: process.env.NEXT_PUBLIC_SITE_DESCRIPTION || "视频聚合平台",
   name: process.env.NEXT_PUBLIC_SITE_NAME || "KVideo",
 };

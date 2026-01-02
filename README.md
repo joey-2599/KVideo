@@ -1,4 +1,4 @@
-# KVideo
+# 视频聚合平台 (KVideo)
 
 ![KVideo Banner](public/icon.png)
 
@@ -46,6 +46,7 @@
 
 ### 🎬 豆瓣集成
 
+- **电影 & 电视剧分类**：支持在电影和电视剧之间无缝切换，方便查找不同类型的影视资源
 - **详细影视信息**：自动获取豆瓣评分、演员阵容、剧情简介等详细信息
 - **推荐系统**：基于豆瓣数据的相关推荐
 - **专业评价**：展示豆瓣用户评价和专业影评
@@ -125,9 +126,9 @@ docker run -d -p 3000:3000 -e ACCESS_PASSWORD=your_secret_password --name kvideo
 
 | 变量名 | 说明 | 默认值 |
 |--------|------|--------|
-| `NEXT_PUBLIC_SITE_TITLE` | 浏览器标签页标题 | `KVideo - 视频聚合平台` |
-| `NEXT_PUBLIC_SITE_DESCRIPTION` | 站点描述 | `Multi-source video aggregation platform with beautiful Liquid Glass UI` |
-| `NEXT_PUBLIC_SITE_NAME` | 站点头部名称 | `KVideo` |
+| `NEXT_PUBLIC_SITE_TITLE` | 浏览器标签页标题 | `视频聚合平台 - KVideo` |
+| `NEXT_PUBLIC_SITE_DESCRIPTION` | 站点描述 | `专属视频聚合播放平台，具备美观的 Liquid Glass UI` |
+| `NEXT_PUBLIC_SITE_NAME` | 站点头部名称 | `视频聚合平台` |
 
 ### 配置示例：
 

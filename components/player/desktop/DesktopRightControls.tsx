@@ -34,7 +34,7 @@ export function DesktopRightControls({
                     <button
                         onClick={onTogglePictureInPicture}
                         className="btn-icon"
-                        aria-label="Picture-in-Picture"
+                        aria-label="画中画"
                         title="画中画"
                     >
                         <Icons.PictureInPicture size={20} />
@@ -74,7 +74,7 @@ export function DesktopRightControls({
             <button
                 onClick={onToggleFullscreen}
                 className="btn-icon"
-                aria-label={isFullscreen ? 'Exit fullscreen' : 'Fullscreen'}
+                aria-label={isFullscreen ? '退出全屏' : '全屏'}
             >
                 {isFullscreen ? <Icons.Minimize size={20} /> : <Icons.Maximize size={20} />}
             </button>

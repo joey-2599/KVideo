@@ -1,0 +1,121 @@
+﻿{
+  "settings": {
+    "sources": [
+      {
+        "id": "电影天堂资源",
+        "name": "电影天堂资源",
+        "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 1
+      },
+      {
+        "id": "黑木耳",
+        "name": "黑木耳",
+        "baseUrl": "https://json.heimuer.xyz/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 2
+      },
+      {
+        "id": "如意资源",
+        "name": "如意资源",
+        "baseUrl": "http://cj.rycjapi.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 3
+      },
+      {
+        "id": "暴风资源",
+        "name": "暴风资源",
+        "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 4
+      },
+      {
+        "id": "非凡影视",
+        "name": "非凡影视",
+        "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 5
+      },
+      {
+        "id": "天涯资源",
+        "name": "天涯资源",
+        "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 6
+      },
+      {
+        "id": "360资源",
+        "name": "360资源",
+        "baseUrl": "https://360zy.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 7
+      },
+      {
+        "id": "极速资源",
+        "name": "极速资源",
+        "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 8
+      },
+      {
+        "id": "豆瓣资源",
+        "name": "豆瓣资源",
+        "baseUrl": "https://dbzy.tv/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 9
+      },
+      {
+        "id": "量子资源站-",
+        "name": "量子资源站",
+        "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 10
+      },
+      {
+        "id": "iKun资源",
+        "name": "iKun资源",
+        "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+        "searchPath": "",
+        "detailPath": "",
+        "enabled": true,
+        "priority": 11
+      }
+    ],
+    "premiumSources": [],
+    "subscriptions": [],
+    "sortBy": "default",
+    "searchHistory": true,
+    "watchHistory": true,
+    "passwordAccess": false,
+    "accessPasswords": [],
+    "autoNextEpisode": true,
+    "autoSkipIntro": false,
+    "skipIntroSeconds": 0,
+    "autoSkipOutro": false,
+    "skipOutroSeconds": 0,
+    "showModeIndicator": false,
+    "realtimeLatency": false,
+    "searchDisplayMode": "normal",
+    "episodeReverseOrder": false
+  }
+}
